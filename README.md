@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
+![Agentic AI](https://img.shields.io/badge/Agentic-AI-orange)
+![License](https://img.shields.io/badge/License-MIT-brightgreen)
 <img width="1024" height="262" alt="image" src="https://github.com/user-attachments/assets/3f15a3b1-8468-4521-9ba5-7c7bd7682620" />
  AI Data Scientist Copilot
 Autonomous Multi-Agent AI System for End-to-End Data Science Automation
