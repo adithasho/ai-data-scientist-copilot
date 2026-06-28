@@ -1,0 +1,27 @@
+[
+    {
+        "dataset": "classification.csv",
+        "best_model": "XGBoost",
+        "accuracy": 1.0
+    },
+    {
+        "dataset": "customer_id,age,monthly_charge,tenure,contract_type,churn.csv",
+        "best_model": "XGBoost",
+        "accuracy": 1.0
+    },
+    {
+        "dataset": "customer_id,age,monthly_charge,tenure,contract_type,churn.csv",
+        "best_model": "XGBoost",
+        "accuracy": 1.0
+    },
+    {
+        "dataset": "customer_id,age,monthly_charge,tenure,contract_type,churn.csv",
+        "best_model": "XGBoost",
+        "accuracy": 1.0
+    },
+    {
+        "dataset": "customer_id,age,monthly_charge,tenure,contract_type,churn.csv",
+        "best_model": "XGBoost",
+        "accuracy": 1.0
+    }
+]
